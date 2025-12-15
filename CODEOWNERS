@@ -1,0 +1,8 @@
+# Default code owners
+*       @engineering-team
+
+# Documentation
+/docs/  @engineering-team
+
+# Standards
+/*.md   @engineering-team
